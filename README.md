@@ -35,3 +35,5 @@ Precision Score: 0.09
 Recall Score: 0.92
 
 ## Summary
+
+In summary, while these models have moderate to high balanced accuracy and recall scores (0.5 - 0.95), the precision scores are extremly low (<0.05). Since we are dealing with credit risk, accurately identifying a bad lending option is extremely important. With this is mind, I would not recommend any of these models.
