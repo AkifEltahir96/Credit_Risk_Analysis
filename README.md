@@ -5,35 +5,33 @@ The purpose of this analysis is to apply machine learning to predict credit card
 
 ## Results
 1. [Oversampling](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Oversampling.png)
-Balanced Accuracy Score:
-Precision Score:
-Sensitivity Score: 
+Balanced Accuracy Score: 0.66
+Precision Score: 0.01
+Recall Score: 0.71
 
 2. [SMOTE Oversampling](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/SMOTE-Oversampling.png)
-Balanced Accuracy Score:
-Precision Score:
-Sensitivity Score:
+Balanced Accuracy Score: 0.66
+Precision Score: 0.01
+Recall Score: 0.63
 
 3. [Undersampling](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Undersampling.png)
-Balanced Accuracy Score:
-Precision Score:
-Sensitivity Score:
+Balanced Accuracy Score: 0.54
+Precision Score: 0.01
+Recall Score: 0.69
 
 4. [Combination](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Combination.png)
-Balanced Accuracy Score:
-Precision Score:
-Sensitivity Score:
+Balanced Accuracy Score: 0.64
+Precision Score: 0.01
+Recall Score: 0.72
 
 5. [Balanced Random Forest Classifier](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Balanced-Random-Forest.png)
-Balanced Accuracy Score:
-Precision Score:
-Sensitivity Score:
+Balanced Accuracy Score: 0.79
+Precision Score: 0.03
+Recall Score: 0.70
 
-5. [Easy Ensemble Classifier](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Easy-Ensemble.png)
-Balanced Accuracy Score:
-Precision Score:
-Sensitivity Score:
-
-
+6. [Easy Ensemble Classifier](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Easy-Ensemble.png)
+Balanced Accuracy Score: 0.93
+Precision Score: 0.09
+Recall Score: 0.92
 
 ## Summary
