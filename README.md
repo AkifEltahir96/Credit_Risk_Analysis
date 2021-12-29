@@ -8,7 +8,7 @@ The purpose of this analysis is to apply machine learning to predict credit card
 Balanced Accuracy Score: 0.66
 Precision Score: 0.01
 Recall Score: 0.71
-! [Oversampling](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Oversampling.png)
+![Oversampling](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Oversampling.png)
 2. [SMOTE Oversampling](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/SMOTE-Oversampling.png)
 Balanced Accuracy Score: 0.66
 Precision Score: 0.01
