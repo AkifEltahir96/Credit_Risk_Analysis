@@ -4,11 +4,12 @@
 The purpose of this analysis is to apply machine learning to predict credit card risk through LendingClub, a credit lending services organization. Using a credit card dataset provided by LendingClub, we will predict lending risk through machine learning models that oversample data, undersample data, and a combinatorial approach (under and oversampling). In addition, we will also use models that reduce bias when predicting risk. Once the analyses are complete, we will make a final recommendation on whether these models should be used to predict credit risk.
 
 ## Results
-1. [Oversampling](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Oversampling.png)
+1. Oversampling:
+![Oversampling](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Oversampling.png)
 Balanced Accuracy Score: 0.66
 Precision Score: 0.01
 Recall Score: 0.71
-![Oversampling](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/Oversampling.png)
+
 2. [SMOTE Oversampling](https://github.com/AkifEltahir96/Credit_Risk_Analysis/blob/main/Pictures/SMOTE-Oversampling.png)
 Balanced Accuracy Score: 0.66
 Precision Score: 0.01
